@@ -7,7 +7,7 @@ import (
 
 	botdetector "github.com/krakendio/krakend-botdetector/v2/gin"
 	httpsecure "github.com/krakendio/krakend-httpsecure/v2/gin"
-	lua "github.com/krakendio/krakend-lua/v2/router/gin"
+	lua "github.com/yonasBSD/krakend-lua/v2/router/gin"
 	opencensus "github.com/krakendio/krakend-opencensus/v2/router/gin"
 	"github.com/luraproject/lura/v2/config"
 	"github.com/luraproject/lura/v2/core"

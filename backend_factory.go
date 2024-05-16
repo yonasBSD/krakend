@@ -10,7 +10,7 @@ import (
 	cb "github.com/krakendio/krakend-circuitbreaker/v2/gobreaker/proxy"
 	httpcache "github.com/krakendio/krakend-httpcache/v2"
 	lambda "github.com/krakendio/krakend-lambda/v2"
-	lua "github.com/krakendio/krakend-lua/v2/proxy"
+	lua "github.com/yonasBSD/krakend-lua/v2/proxy"
 	martian "github.com/krakendio/krakend-martian/v2"
 	metrics "github.com/krakendio/krakend-metrics/v2/gin"
 	oauth2client "github.com/krakendio/krakend-oauth2-clientcredentials/v2"

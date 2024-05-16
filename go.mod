@@ -24,7 +24,6 @@ require (
 	github.com/krakendio/krakend-jsonschema/v2 v2.0.3
 	github.com/krakendio/krakend-lambda/v2 v2.0.3
 	github.com/krakendio/krakend-logstash/v2 v2.0.2
-	github.com/krakendio/krakend-lua/v2 v2.1.2
 	github.com/krakendio/krakend-martian/v2 v2.0.2
 	github.com/krakendio/krakend-metrics/v2 v2.0.1
 	github.com/krakendio/krakend-oauth2-clientcredentials/v2 v2.0.1
@@ -38,6 +37,7 @@ require (
 	github.com/luraproject/lura/v2 v2.6.3
 	github.com/spf13/cobra v1.8.0
 	github.com/xeipuuv/gojsonschema v1.2.1-0.20200424115421-065759f9c3d7
+	github.com/yonasBSD/krakend-lua/v2 v2.0.0-20240203201855-cec3403d59a8
 	golang.org/x/sync v0.7.0
 )
 
@@ -271,4 +271,5 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
+	lukechampine.com/blake3 v1.2.1 // indirect
 )
